@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diptamRDC
 - 👀 I’m interested in building stuffs
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Open Source Project
+- 💞️ I’m looking to collaborate
 
 <!---
 diptamRDC/diptamRDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
